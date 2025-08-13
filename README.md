@@ -46,12 +46,12 @@ Your mission is simple: **eliminate the centipede before it collides with your s
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/centipede-hunter.git
-cd centipede-hunter
+https://github.com/TahaGPT/Centipede-Game.git
+cd Centipede-Game
 ```
 
 ### 3️⃣ Build & Run
 ```bash
-g++ main.cpp -o game -lsfml-graphics -lsfml-window -lsfml-system
-./game
+g++ Centipede.cpp -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+./sfml-app
 ```
